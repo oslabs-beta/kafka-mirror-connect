@@ -1,0 +1,46 @@
+{
+  "name": "kafka-mirror-connect",
+  "version": "1.0.2",
+  "description": "Connect Kafka application to KafkaMirror. Built on top of KafkaJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oslabs-beta/KafkaMirror.git"
+  },
+  "keywords": [
+    "['kafka'",
+    "'kafkajs'",
+    "'apache",
+    "kafka'",
+    "'apache'",
+    "'kafka",
+    "monitoring'",
+    "'monitoring'",
+    "'kafka",
+    "alert'",
+    "'kafka",
+    "gui'",
+    "'gui'",
+    "'alert'",
+    "'bitcoin'",
+    "'cryptocurrency'",
+    "'crypto'",
+    "'codesmith'",
+    "'fintech'",
+    "'blockchain'",
+    "'javascript']"
+  ],
+  "author": "Jonah Stewart <jonahlstewart@gmail.com> (https://github.com/oslabs-beta/KafkaMirror)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oslabs-beta/KafkaMirror/issues"
+  },
+  "homepage": "https://github.com/oslabs-beta/KafkaMirror#readme",
+  "dependencies": {
+    "kafkajs": "^1.15.0",
+    "winston": "^3.3.3"
+  }
+}
